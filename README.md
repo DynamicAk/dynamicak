@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abhishek Kumar 👋
 
-<!--
-**DynamicAk/dynamicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Azure Databricks | PySpark | SQL**
 
-Here are some ideas to get you started:
+Data Engineer with hands-on experience building scalable data pipelines, implementing data quality frameworks, and working with cloud data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** Python, SQL
+- **Data Engineering:** PySpark, Apache Spark, Delta Lake, Medallion Architecture
+- **Cloud:** Azure Databricks, Azure Data Factory, ADLS Gen2, Microsoft Fabric, Snowflake
+- **DevOps:** Git, CI/CD, Azure DevOps
+- **AI:** LangGraph, Agentic AI, Great Expectations
+
+### Certifications
+
+- Databricks Certified Data Engineer Associate
+
+### Connect with Me
+
+- [LinkedIn](linkedin.com/in/abhishek-kumar-nit-delhi)
+- [Email](mailto:abhishek.kumar.nitd@gmail.com)
+- [leetcode](https://leetcode.com/u/Abhishek_kumar_nitd/)
