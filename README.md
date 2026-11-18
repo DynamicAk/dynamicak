@@ -6,11 +6,11 @@ Data Engineer with hands-on experience building scalable data pipelines, impleme
 
 ### Tech Stack
 
-- **Languages:** Python, SQL
+- **Languages:** C, Python, SQL
 - **Data Engineering:** PySpark, Apache Spark, Delta Lake, Medallion Architecture
 - **Cloud:** Azure Databricks, Azure Data Factory, ADLS Gen2, Microsoft Fabric, Snowflake
 - **DevOps:** Git, CI/CD, Azure DevOps
-- **AI:** LangGraph, Agentic AI, Great Expectations
+- **AI:** RAG, LangGraph, Agentic AI, Great Expectations
 
 ### Certifications
 
