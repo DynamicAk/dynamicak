@@ -41,10 +41,11 @@ Desktop utility for password-based folder encryption and decryption with a graph
 ### Tech Stack
 
 - **Languages:** C, Python, SQL
+- **Framework:** Flask, Streamlit
 - **Data Engineering:** PySpark, Apache Spark, Delta Lake, Medallion Architecture
 - **Cloud:** Azure Databricks, Azure Data Factory, ADLS Gen2, Microsoft Fabric, Snowflake
 - **DevOps:** Git, CI/CD, Azure DevOps
-- **AI:** RAG, LangGraph, Agentic AI, Great Expectations
+- **AI:** RAG, LangGraph, LangChain, Gen AI, Agentic AI, Great Expectations
 
 ### Certifications
 
